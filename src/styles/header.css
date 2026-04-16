@@ -24,19 +24,12 @@
   gap: 12px;
   font-size: 28px;
   font-weight: 700;
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  background-clip: text;
 }
 
-.logo-symbol {
-  font-size: 32px;
-}
-
-.logo-text {
-  color: #1a1a1a;
-  -webkit-text-fill-color: unset;
+.logo-image {
+  height: 100px;
+  width: auto;
+  max-width: 200px;
 }
 
 .nav {
@@ -54,7 +47,7 @@
 }
 
 .nav a:hover {
-  color: #667eea;
+  color: #a9d22c;
 }
 
 .nav a::after {
@@ -64,7 +57,7 @@
   left: 0;
   width: 0;
   height: 2px;
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  background: #a9d22c;
   transition: width 0.3s ease;
 }
 
@@ -74,8 +67,8 @@
 
 .cta-button {
   padding: 10px 24px;
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-  color: white;
+  background: #a9d22c;
+  color: #1a1a1a;
   border: none;
   border-radius: 8px;
   font-weight: 600;
@@ -86,7 +79,7 @@
 
 .cta-button:hover {
   transform: translateY(-2px);
-  box-shadow: 0 8px 16px rgba(102, 126, 234, 0.3);
+  box-shadow: 0 8px 16px rgba(169, 210, 44, 0.35);
 }
 
 .menu-toggle {

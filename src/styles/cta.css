@@ -2,9 +2,9 @@
   max-width: 1200px;
   margin: 100px auto;
   padding: 80px 40px;
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  background: #ffd811;
   border-radius: 20px;
-  color: white;
+  color: #1a1a1a;
   text-align: center;
 }
 
@@ -16,7 +16,7 @@
 .cta-section h2 {
   font-size: 48px;
   margin-bottom: 20px;
-  color: white;
+  color: #1a1a1a;
 }
 
 .cta-section p {
@@ -35,7 +35,7 @@
 
 .cta-section .btn-primary {
   background: white;
-  color: #667eea;
+  color: #1a1a1a;
   font-weight: 700;
 }
 
@@ -45,7 +45,7 @@
 }
 
 .cta-section .btn-secondary {
-  background: rgba(255, 255, 255, 0.2);
+  background: rgba(50, 50, 50, 0.2);
   color: white;
   border-color: white;
   backdrop-filter: blur(10px);

@@ -4,6 +4,9 @@ export function Hero() {
   return (
     <section className="hero">
       <div className="hero-content">
+        <iframe width="1200" height="720"
+src="https://www.powtoon.com/embed/b28AgRttKXM/" frameBorder="0"
+allowFullScreen={true}></iframe>
         <h1 className="hero-title">Replaceable Parts Built for Growing Kids</h1>
         <p className="hero-subtitle">
           Durable, affordable prosthetic components designed to keep up with your child's growth and lifestyle
@@ -11,11 +14,6 @@ export function Hero() {
         <div className="hero-buttons">
           <button className="btn btn-primary">Shop Now</button>
           <button className="btn btn-secondary">Learn More</button>
-        </div>
-      </div>
-      <div className="hero-visual">
-        <div className="prosthetic-illustration">
-          <div className="prosthetic-shape"></div>
         </div>
       </div>
     </section>

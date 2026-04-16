@@ -38,7 +38,7 @@ export function Features() {
     <section id="features" className="features">
       <div className="features-container">
         <div className="section-header">
-          <h2>Why Choose ProFit?</h2>
+          <h2>Why Choose SneakyBionics?</h2>
           <p>The complete solution for growing kids</p>
         </div>
         <div className="features-grid">

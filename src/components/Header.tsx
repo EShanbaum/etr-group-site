@@ -8,8 +8,7 @@ export function Header() {
     <header className="header">
       <div className="header-container">
         <div className="logo">
-          <span className="logo-symbol">⚙️</span>
-          <span className="logo-text">ProFit</span>
+          <img src="/logo.png" alt="SneakyBionics Logo" className="logo-image" />
         </div>
         
         <nav className={`nav ${isMenuOpen ? 'open' : ''}`}>

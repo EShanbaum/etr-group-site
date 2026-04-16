@@ -7,8 +7,8 @@ export function CTA() {
         <h2>Ready to Empower Your Child?</h2>
         <p>Join thousands of families who trust ProFit for quality prosthetic solutions</p>
         <div className="cta-buttons">
-          <button className="btn btn-primary btn-large">Get Your ProFit Today</button>
-          <button className="btn btn-secondary btn-large">Schedule a Consultation</button>
+          <a href="https://sneaky-bionics.foxycart.com​" className="btn btn-primary btn-large">PreOrder Today</a>
+          <a href="https://calendly.com/thmah-wpi/30min" className="btn btn-secondary btn-large">Schedule a Consultation</a>
         </div>
       </div>
     </section>
