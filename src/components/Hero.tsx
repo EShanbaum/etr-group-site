@@ -14,6 +14,9 @@ allowFullScreen={true}></iframe>
         <div className="hero-buttons">
           <button className="btn btn-primary">Shop Now</button>
           <button className="btn btn-secondary">Learn More</button>
+          <a className="btn btn-secondary" href="mailto:sneakybionics@outlook.com">
+            Email Us
+          </a>
         </div>
       </div>
     </section>
