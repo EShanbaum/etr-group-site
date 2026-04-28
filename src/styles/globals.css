@@ -41,23 +41,23 @@ a {
 }
 
 .btn-primary {
-  background: #a9d22c;
+  background: #2977c2;
   color: #1a1a1a;
 }
 
 .btn-primary:hover {
   transform: translateY(-2px);
-  box-shadow: 0 8px 16px rgba(169, 210, 44, 0.35);
+  box-shadow: 0 8px 16px rgba(41, 119, 194, 0.35);
 }
 
 .btn-secondary {
   background: transparent;
-  color: #a9d22c;
-  border: 2px solid #a9d22c;
+  color: #2977c2;
+  border: 2px solid #2977c2;
 }
 
 .btn-secondary:hover {
-  background: rgba(169, 210, 44, 0.12);
+  background: rgba(41, 119, 194, 0.12);
 }
 
 .btn-large {

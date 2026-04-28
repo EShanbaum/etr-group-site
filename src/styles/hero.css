@@ -53,7 +53,7 @@
   font-size: 180px;
   line-height: 1;
   display: inline-block;
-  filter: drop-shadow(0 18px 26px rgba(169, 210, 44, 0.35));
+  filter: drop-shadow(0 18px 26px rgba(41, 119, 194, 0.35));
   animation: float 3s ease-in-out infinite;
 }
 

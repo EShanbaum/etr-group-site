@@ -3,25 +3,21 @@ import '../styles/products.css';
 export function Products() {
   const products = [
     {
-      name: 'Foot Modules',
-      description: 'Lightweight, flexible foot components with various grip patterns',
-      image: '🦶'
+      name: 'Lower Body Prosthetics',
+      description: 'Lightweight, flexible leg prosthetics adapted for althetic capabilities',
+      image: '🦿'
     },
     {
-      name: 'Ankle Joints',
-      description: 'Adjustable articulation for dynamic movement and stability',
-      image: '🔗'
+      name: 'Upper Body Prosthetics',
+      description: 'Versatile and adaptable arm prosthetics designed to react to natural movements',
+      image: '🦾'
     },
     {
-      name: 'Socket Liners',
-      description: 'Breathable, cushioned liners for maximum comfort during active use',
-      image: '🛡️'
-    },
-    {
-      name: 'Connection Adapters',
-      description: 'Universal connectors compatible with multiple component types',
+      name: 'Replaceable Components',
+      description: 'Fingers, wrists, feet, ankles, we have it all. Our bionic prosthetics are designed to be modular to accommodate child wear and tear',
       image: '🔧'
-    }
+    },
+ 
   ];
 
   return (

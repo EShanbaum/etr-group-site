@@ -7,9 +7,9 @@ export function Hero() {
         <iframe width="1200" height="720"
 src="https://www.powtoon.com/embed/b28AgRttKXM/" frameBorder="0"
 allowFullScreen={true}></iframe>
-        <h1 className="hero-title">Replaceable Parts Built for Growing Kids</h1>
+        <h1 className="hero-title">Prosthetics Built for Growing Kids</h1>
         <p className="hero-subtitle">
-          Durable, affordable prosthetic components designed to keep up with your child's growth and lifestyle
+          Losing a limb can be traumatic, especially for children. SneakyBionics aims to make to transition to prosthetics as smooth as possible with our modular bionic technology.
         </p>
         <div className="hero-buttons">
           <button className="btn btn-primary">Shop Now</button>

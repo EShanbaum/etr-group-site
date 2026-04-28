@@ -34,16 +34,16 @@
   left: 0;
   right: 0;
   height: 4px;
-  background: #a9d22c;
+  background: #2977c2;
   transform: scaleX(0);
   transition: transform 0.3s ease;
   transform-origin: left;
 }
 
 .product-card:hover {
-  border-color: rgba(169, 210, 44, 0.35);
+  border-color: rgba(41, 119, 194, 0.35);
   transform: translateY(-8px);
-  box-shadow: 0 12px 32px rgba(169, 210, 44, 0.2);
+  box-shadow: 0 12px 32px rgba(41, 119, 194, 0.2);
 }
 
 .product-card:hover::before {
@@ -54,7 +54,7 @@
   font-size: 64px;
   margin-bottom: 24px;
   display: inline-block;
-  background: #a9d22c;
+  background: #2977c2;
   padding: 20px;
   border-radius: 12px;
   width: 100px;
@@ -80,8 +80,8 @@
 .product-button {
   padding: 12px 28px;
   background: transparent;
-  color: #a9d22c;
-  border: 2px solid #a9d22c;
+  color: #2977c2;
+  border: 2px solid #2977c2;
   border-radius: 8px;
   font-weight: 600;
   cursor: pointer;
@@ -90,7 +90,7 @@
 }
 
 .product-button:hover {
-  background: #a9d22c;
+  background: #2977c2;
   color: #1a1a1a;
   transform: translateY(-2px);
 }

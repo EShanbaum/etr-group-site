@@ -2,7 +2,7 @@
   max-width: 1200px;
   margin: 0 auto;
   padding: 100px 20px;
-  background: rgba(169, 210, 44, 0.08);
+  background: rgba(41, 119, 194, 0.08);
   margin: 60px auto;
   border-radius: 20px;
 }
@@ -32,15 +32,15 @@
 
 .feature-card:hover {
   transform: translateY(-8px);
-  box-shadow: 0 12px 24px rgba(169, 210, 44, 0.2);
-  border-color: rgba(169, 210, 44, 0.35);
+  box-shadow: 0 12px 24px rgba(41, 119, 194, 0.2);
+  border-color: rgba(41, 119, 194, 0.35);
 }
 
 .feature-icon {
   font-size: 48px;
   margin-bottom: 20px;
   display: inline-block;
-  background: #a9d22c;
+  background: #2977c2;
   padding: 20px;
   border-radius: 12px;
   width: 80px;

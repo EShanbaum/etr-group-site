@@ -5,8 +5,8 @@ export function Footer() {
     <footer className="footer">
       <div className="footer-container">
         <div className="footer-section">
-          <h4>About ProFit</h4>
-          <p>Dedicated to creating quality, affordable prosthetic solutions for children worldwide.</p>
+          <h4>About SneakyBionics</h4>
+          <p>Dedicated to creating quality, modular bionic prosthetic solutions for children worldwide.</p>
         </div>
         <div className="footer-section">
           <h4>Quick Links</h4>
@@ -28,13 +28,12 @@ export function Footer() {
         </div>
         <div className="footer-section">
           <h4>Contact</h4>
-          <p>Email: info@profit.com</p>
-          <p>Phone: 1-800-PROFIT-1</p>
+          <p>Email: sneakybionics@outlook.com</p>
           <p>Hours: Mon-Fri 9am-5pm EST</p>
         </div>
       </div>
       <div className="footer-bottom">
-        <p>&copy; 2024 ProFit. All rights reserved.</p>
+        <p>&copy; 2026 SneakyBionics. All rights reserved.</p>
       </div>
     </footer>
   );

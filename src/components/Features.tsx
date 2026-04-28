@@ -13,11 +13,6 @@ export function Features() {
       description: 'Built to withstand active play and sports with military-grade materials'
     },
     {
-      icon: '💰',
-      title: 'Affordable',
-      description: 'Quality replaceable parts that grow with your budget, not your expenses'
-    },
-    {
       icon: '📏',
       title: 'Growth-Ready',
       description: 'Modular design adapts as your child grows without full replacement'
